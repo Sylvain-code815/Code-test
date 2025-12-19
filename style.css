@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-=======
 body {
     background-color: black;
+    margin: 8px;
 }
 
 h1 {
     color: whitesmoke;
 }
->>>>>>> parent of 0be8f7f (-CSS changed : h1 & bg-color)
